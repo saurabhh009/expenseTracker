@@ -5,4 +5,4 @@ A JavaScript application to share expenditures among friends which results in sa
 It utilizes a Max-Heap data structure with up and down heap operations to find maximum credit and debit transactions.
 It can used to simplify the transactions and provides the settlements graph.
 
-Live Demo Link: https://splitshare-priyanshu-chand.netlify.app/
+https://expense-tracker-saurabh1.netlify.app/
